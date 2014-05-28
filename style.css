@@ -1,0 +1,9 @@
+/* SW Tumblr Blog Display CSS Styling */
+.tumblrTitle {
+font-size: 14px;
+font-weight: bold;
+}
+.postWarp {
+border-bottom: 1px dotted #ccc;
+padding: 5px 0px;
+}
