@@ -141,7 +141,7 @@ class TumblrBlogDisplayWidget extends WP_Widget{
 		$data .= "Check your php.ini and make sure allow_url_fopen & openssl is set to on";
     }
         }
-    $data .= "<div style='color:#ccc; font-size: 9px; text-align:right;'><a href='http://www.crayfishstudios.com/' title='click here' target='_blank'>dallas web designers</a></div>";
+    $data .= "<div style='color:#ccc; font-size: 9px; text-align:right;'><a href='http://www.crayfishstudios.com/' title='Crayfish Studios' target='_blank'>Crayfishstudios.com</a></div>";
         echo $before_widget;
         echo $before_title . $title . $after_title;
             echo $data;
